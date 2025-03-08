@@ -2,9 +2,9 @@
 
 [![Travis CI](https://travis-ci.org/mikljohansson/retroboy.svg?branch=master)](https://travis-ci.org/mikljohansson/retroboy)
 
->Retroboy provides vintage imaging technology not seen since >the digital cameras and monochrome screens of
->the previous century. A series of real time filters >implement various image processing algorithms, to 
->emulate the graphic experience of classic hardware.
+>Retroboy provides vintage imaging technology not seen since the digital cameras and monochrome screens of
+the previous century. A series of real time filters implement various image processing algorithms, to 
+emulate the graphic experience of classic hardware.
 ------
 ### Features
 ------
@@ -23,6 +23,6 @@
 ------
 ### Development
 ------
-* Uses [Android Studio](http://developer.android.com/tools/studio/index.html) for development
+* Uses [Android Studio](http://developer.android.com/tools/studio/index.html) for development.
 
-[![Download on F-Droid](https://f-droid.org/wiki/images/0/06/F-Droid-button_get-it-on.png)!](https://f-droid.org/packages/se.embargo.retroboy/)
+[Download on F-Droid](https://f-droid.org/wiki/images/0/06/F-Droid-button_get-it-on.png)(https://f-droid.org/packages/se.embargo.retroboy/)]
